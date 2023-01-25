@@ -128,7 +128,7 @@ for yearaca in yearacaall:
             dbhost = 'localhost'
             dbname = 'PDS'
             dbuser = 'jorge'
-            dbpasswd = '404794'
+            dbpasswd = 'XXXXXX'
 
             table_prefix = ''
 
